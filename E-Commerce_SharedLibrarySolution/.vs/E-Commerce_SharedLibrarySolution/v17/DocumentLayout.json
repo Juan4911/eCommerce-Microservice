@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juana\\OneDrive\\Documentos\\Proyectos .NET\\eCommerce-Microservice\\E-Commerce_SharedLibrarySolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B10297-A4D8-4A99-A817-D9A72424B76C}|SharedLibrary_E-commerce\\SharedLibrary_E-commerce.csproj|c:\\users\\juana\\onedrive\\documentos\\proyectos .net\\ecommerce-microservice\\e-commerce_sharedlibrarysolution\\sharedlibrary_e-commerce\\dependencyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B10297-A4D8-4A99-A817-D9A72424B76C}|SharedLibrary_E-commerce\\SharedLibrary_E-commerce.csproj|solutionrelative:sharedlibrary_e-commerce\\dependencyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SharedServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Documentos\\Proyectos .NET\\eCommerce-Microservice\\E-Commerce_SharedLibrarySolution\\SharedLibrary_E-commerce\\DependencyInjection\\SharedServiceContainer.cs",
+              "RelativeDocumentMoniker": "SharedLibrary_E-commerce\\DependencyInjection\\SharedServiceContainer.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Documentos\\Proyectos .NET\\eCommerce-Microservice\\E-Commerce_SharedLibrarySolution\\SharedLibrary_E-commerce\\DependencyInjection\\SharedServiceContainer.cs",
+              "RelativeToolTip": "SharedLibrary_E-commerce\\DependencyInjection\\SharedServiceContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T00:31:09.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\juana\OneDrive\Documentos\Proyectos .NET\eCommerce-Microservice\E-Commerce_SharedLibrarySolution\SharedLibrary_E-commerce\bin\Debug\net8.0\SharedLibrary_E-commerce.deps.json
+C:\Users\juana\OneDrive\Documentos\Proyectos .NET\eCommerce-Microservice\E-Commerce_SharedLibrarySolution\SharedLibrary_E-commerce\bin\Debug\net8.0\SharedLibrary_E-commerce.dll
+C:\Users\juana\OneDrive\Documentos\Proyectos .NET\eCommerce-Microservice\E-Commerce_SharedLibrarySolution\SharedLibrary_E-commerce\bin\Debug\net8.0\SharedLibrary_E-commerce.pdb
+C:\Users\juana\OneDrive\Documentos\Proyectos .NET\eCommerce-Microservice\E-Commerce_SharedLibrarySolution\SharedLibrary_E-commerce\obj\Debug\net8.0\SharedLibrary_E-commerce.csproj.AssemblyReference.cache
+C:\Users\juana\OneDrive\Documentos\Proyectos .NET\eCommerce-Microservice\E-Commerce_SharedLibrarySolution\SharedLibrary_E-commerce\obj\Debug\net8.0\SharedLibrary_E-commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juana\OneDrive\Documentos\Proyectos .NET\eCommerce-Microservice\E-Commerce_SharedLibrarySolution\SharedLibrary_E-commerce\obj\Debug\net8.0\SharedLibrary_E-commerce.AssemblyInfoInputs.cache
+C:\Users\juana\OneDrive\Documentos\Proyectos .NET\eCommerce-Microservice\E-Commerce_SharedLibrarySolution\SharedLibrary_E-commerce\obj\Debug\net8.0\SharedLibrary_E-commerce.AssemblyInfo.cs
+C:\Users\juana\OneDrive\Documentos\Proyectos .NET\eCommerce-Microservice\E-Commerce_SharedLibrarySolution\SharedLibrary_E-commerce\obj\Debug\net8.0\SharedLibrary_E-commerce.csproj.CoreCompileInputs.cache
+C:\Users\juana\OneDrive\Documentos\Proyectos .NET\eCommerce-Microservice\E-Commerce_SharedLibrarySolution\SharedLibrary_E-commerce\obj\Debug\net8.0\SharedLibrary_E-commerce.sourcelink.json
+C:\Users\juana\OneDrive\Documentos\Proyectos .NET\eCommerce-Microservice\E-Commerce_SharedLibrarySolution\SharedLibrary_E-commerce\obj\Debug\net8.0\SharedLibrary_E-commerce.dll
+C:\Users\juana\OneDrive\Documentos\Proyectos .NET\eCommerce-Microservice\E-Commerce_SharedLibrarySolution\SharedLibrary_E-commerce\obj\Debug\net8.0\refint\SharedLibrary_E-commerce.dll
+C:\Users\juana\OneDrive\Documentos\Proyectos .NET\eCommerce-Microservice\E-Commerce_SharedLibrarySolution\SharedLibrary_E-commerce\obj\Debug\net8.0\SharedLibrary_E-commerce.pdb
+C:\Users\juana\OneDrive\Documentos\Proyectos .NET\eCommerce-Microservice\E-Commerce_SharedLibrarySolution\SharedLibrary_E-commerce\obj\Debug\net8.0\ref\SharedLibrary_E-commerce.dll
